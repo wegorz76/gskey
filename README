@@ -1,0 +1,4 @@
+Program will install into /usr/local/bin. It creates configuration
+~/.gskey using 0600 access privileges.
+
+wegorz
